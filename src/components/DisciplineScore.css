@@ -1,0 +1,9 @@
+.score
+{
+    display: flex;
+    justify-content: center;
+}
+.head
+{
+    color: #e3f2fd;
+}
